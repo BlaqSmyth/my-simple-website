@@ -21,3 +21,5 @@ This project is intended for educational purposes to help beginners understand:
 ## 📅 Created
 
 May 2025
+
+This is our first chnages that we're making to the file
